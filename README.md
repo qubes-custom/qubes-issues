@@ -6,3 +6,6 @@
 - GPU Passthrough [Single/Multi GPU]
 - GPU Virtualization
 - Paravirtualized
+
+[] Performance Issues
+- Compiling is half-speed of native ([See](https://github.com/QubesOS/qubes-issues/issues/7404))
