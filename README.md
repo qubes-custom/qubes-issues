@@ -9,3 +9,6 @@
 
 [] Performance Issues
 - Compiling is half-speed of native ([See](https://github.com/QubesOS/qubes-issues/issues/7404))
+
+[] MacOS Virtualization
+- the solution is KVM hypervisor support (WIP)
